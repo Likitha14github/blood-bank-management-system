@@ -1,0 +1,40 @@
+html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blood Bank Management System</title>
+    <style>
+        body {
+            background-color: #FFA500; /* Orange */
+            color: pink; /* White text */
+            font-family: Arial, sans-serif; /* Font style */
+            margin: 0;
+            padding: 0;
+        }
+        .center {
+            text-align: center; /* Center align content */
+            margin-top: 50px; /* Add some space from the top */
+        }
+        .heading {
+            font-family: 'Brush Script MT', cursive; /* Brush Script MT font */
+            font-size: 36px; /* Larger font size */
+            color: #0000FF; /* Blue color */
+        }
+        .sub-heading {
+            font-family: 'Brush Script MT', cursive; /* Brush Script MT font */
+            font-size: 24px; /* Smaller font size */
+            color: #FF0000; /* Red color */
+        }
+        img {
+            height: 170px; /* Set image height */
+        }
+    </style>
+</head>
+<body>
+    <div class="center">
+        <img src="https://play-lh.googleusercontent.com/7UjwFFa-EmDqNjAchbeGIld8W620s-9v5etJ1hBT18E436dhCZxdFzbZfe8vsCX7_Q=w240-h480-rw" alt="Blood Bag Image"><br>
+        <div class="heading">Welcome to the Blood Bank Management System!!!</div><br>
+        <div class="sub-heading">"Ensuring a Safe and Sustainable Blood Supply"</div>
+    </div>
+</body>
+</html>
